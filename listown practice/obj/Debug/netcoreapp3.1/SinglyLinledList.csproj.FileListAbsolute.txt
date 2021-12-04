@@ -1,0 +1,14 @@
+D:\own learning\listown practice\bin\Debug\netcoreapp3.1\SinglyLinledList.exe
+D:\own learning\listown practice\bin\Debug\netcoreapp3.1\SinglyLinledList.deps.json
+D:\own learning\listown practice\bin\Debug\netcoreapp3.1\SinglyLinledList.runtimeconfig.json
+D:\own learning\listown practice\bin\Debug\netcoreapp3.1\SinglyLinledList.runtimeconfig.dev.json
+D:\own learning\listown practice\bin\Debug\netcoreapp3.1\SinglyLinledList.dll
+D:\own learning\listown practice\bin\Debug\netcoreapp3.1\SinglyLinledList.pdb
+D:\own learning\listown practice\obj\Debug\netcoreapp3.1\SinglyLinledList.GeneratedMSBuildEditorConfig.editorconfig
+D:\own learning\listown practice\obj\Debug\netcoreapp3.1\SinglyLinledList.AssemblyInfoInputs.cache
+D:\own learning\listown practice\obj\Debug\netcoreapp3.1\SinglyLinledList.AssemblyInfo.cs
+D:\own learning\listown practice\obj\Debug\netcoreapp3.1\SinglyLinledList.csproj.CoreCompileInputs.cache
+D:\own learning\listown practice\obj\Debug\netcoreapp3.1\SinglyLinledList.dll
+D:\own learning\listown practice\obj\Debug\netcoreapp3.1\SinglyLinledList.pdb
+D:\own learning\listown practice\obj\Debug\netcoreapp3.1\SinglyLinledList.genruntimeconfig.cache
+D:\own learning\listown practice\obj\Debug\netcoreapp3.1\SinglyLinledList.csproj.AssemblyReference.cache
